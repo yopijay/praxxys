@@ -1,0 +1,7 @@
+{
+  "name": "praxxys",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
