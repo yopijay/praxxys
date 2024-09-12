@@ -14,8 +14,8 @@
     import { IonPage, IonContent } from '@ionic/vue';
 
     // Layouts
-    import Header from "../../core/layouts/Header.vue";
-    import Sidebar from "../../core/layouts/Sidebar.vue";
+    import Header from "../../core/layouts/header/HeaderComponent.vue";
+    import Sidebar from "../../core/layouts/sidebar/SidebarComponent.vue";
 
     // Components
     import BeginnerTier from "./components/BeginnerTier.vue";

@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from '@ionic/vue-router';
-import LoyaltyPage from "../views/loyalty-page/index.vue";
+import LoyaltyPage from "../views/loyalty-page/LoyaltyPage.vue";
 
 const routes = [
   {
